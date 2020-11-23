@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../css"
+		},
+		{
+			"path": "../img"
+		},
+		{
+			"path": "../../../../../Downloads/fontawesome-free-5.15.1-web/webfonts"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "css"
+	}
+}
